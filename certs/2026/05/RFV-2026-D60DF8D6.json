@@ -1,0 +1,20 @@
+{
+  "id": "RFV-2026-D60DF8D6",
+  "recipient": {
+    "name": "Muhammad Ahmad",
+    "email_hash": "sha256:0dcf4a313ee0da28b4779e248ca21e3623ba8efb19a8850d926ad14fae92c0ee"
+  },
+  "quiz": {
+    "id": "generative-ai-basics",
+    "title": "Generative AI Basics",
+    "version": "1.0"
+  },
+  "score": 95,
+  "issued_at": "2026-05-28T18:07:35.513Z",
+  "issuer": "RRRTX FreeVerse",
+  "verify_url": "https://rrrtx-freeverse.vercel.app/verify?id=RFV-2026-D60DF8D6",
+  "integrity": {
+    "violations": 2,
+    "completed_in_secure_mode": true
+  }
+}
