@@ -1,0 +1,20 @@
+{
+  "id": "RFV-2026-3BB2D4D5",
+  "recipient": {
+    "name": "Muhammad Ahmad",
+    "email_hash": "sha256:f7f45d762113b4038f2aa59a4ea52c614500b9809f4a139f1e01f828f1e4228e"
+  },
+  "quiz": {
+    "id": "no-code-automation",
+    "title": "No-Code & Automation",
+    "version": "1.0"
+  },
+  "score": 100,
+  "issued_at": "2026-05-28T21:17:13.029Z",
+  "issuer": "RRRTX FreeVerse",
+  "verify_url": "https://rrrtx-freeverse.vercel.app/verify?id=RFV-2026-3BB2D4D5",
+  "integrity": {
+    "violations": 0,
+    "completed_in_secure_mode": true
+  }
+}
