@@ -1,0 +1,20 @@
+{
+  "id": "RFV-2026-A0480625",
+  "recipient": {
+    "name": "Muhammad Ahmad",
+    "email_hash": "sha256:bcc13a80623e9b82334214e13f69092ace48efb3356602891aef1b74f40ec7b2"
+  },
+  "quiz": {
+    "id": "python-fundamentals",
+    "title": "Python Fundamentals",
+    "version": "1.0"
+  },
+  "score": 95,
+  "issued_at": "2026-10-14T12:28:13.900Z",
+  "issuer": "RRRTX FreeVerse",
+  "verify_url": "https://rrrtx-freeverse.vercel.app/verify?id=RFV-2026-A0480625",
+  "integrity": {
+    "violations": 0,
+    "completed_in_secure_mode": true
+  }
+}
